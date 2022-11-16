@@ -35,8 +35,7 @@
             </a>.</i></li>
         <br>
             <li> Decades of gender discrimination have stymied the robust presence of women in leadership positions in American policing. Moreover, historic patterns of exclusion have led to problems of attrition whereby women in frontline positions either opt out of the promotion process or leave policing altogether before they can advance to the upper echelons—a trend referred to as a leaking pipeline (Bailyn, 2003).
-            </li>
-            </ul>
+            </li></ul>
     <br>
    <center><img class="mainphoto" src="https://www.statista.com/graphic/1/195324/gender-distribution-of-full-time-law-enforcement-employees-in-the-us.jpg" width="800" height="500"></center>  
 <br>
