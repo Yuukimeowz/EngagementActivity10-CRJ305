@@ -11,11 +11,13 @@
           <h2>Hiring Women Police officers!!!</h2>
             <br>  
             <center><img class=".mainphoto" src="https://ei.marketwatch.com/Multimedia/2020/06/09/Photos/ZH/MW-II236_police_20200609130247_ZH.jpg?uuid=0b748dd4-aa73-11ea-84c4-9c8e992d421e" width="800" height="400"></center>
-          <h3>“Before the 1970s, nearly all police officers in the United States were white men” (S. E. Martin & Jurik, 1996, p. 48). </h3>
+          <h3>“Before the 1970s, nearly all police officers in the United States were white men” (S. E. Martin & Jurik, 1996, p. 48).</h3>
            <center><h3>The Importance of Women Police Officers</h3></center>
            <div>
-    <p class="square">The representations of different groups have become powerful symbols of access, equality, and influence. Participation in the occupation of law enforcement symbolizes equality and socioeconomic opportunities for female police officers, but more importantly, women’s participation in the institution of policing symbolizes women’s right to stand beside, instead of behind, men in exercising state-sanctioned acts of formal social control <a href="https://journals.sagepub.com/doi/epub/10.1177/1557085117753668"><i>(Schuck,2018)
-    </a>.</i></p>
+    <p>The representations of different groups have become powerful symbols of access, equality, and influence. Participation in the occupation of law enforcement symbolizes equality and socioeconomic opportunities for female police officers, but more importantly, women’s participation in the institution of policing symbolizes women’s right to stand beside, instead of behind, men in exercising state-sanctioned acts of formal social control <a href="https://journals.sagepub.com/doi/epub/10.1177/1557085117753668"><i>(Schuck,2018)
+    </a>
+    </i>
+    </p>
     </div>
     <div>
          <p>Do you have what it takes to help others? With the job the highs come with the pay and benefits. The challenge of the job and the ability to transfer to other federal agencies from experiences gives many women the chance to succeed to the field they would later like to join (Belknap, 2020). </p>
@@ -33,11 +35,12 @@
             </a>.</i></li>
         <br>
             <li> Decades of gender discrimination have stymied the robust presence of women in leadership positions in American policing. Moreover, historic patterns of exclusion have led to problems of attrition whereby women in frontline positions either opt out of the promotion process or leave policing altogether before they can advance to the upper echelons—a trend referred to as a leaking pipeline (Bailyn, 2003).
-            </h3>
             </li>
+            </ul>
     <br>
    <center><img class="mainphoto" src="https://www.statista.com/graphic/1/195324/gender-distribution-of-full-time-law-enforcement-employees-in-the-us.jpg" width="800" height="500"></center>  
 <br>
+<hr>
 <center><h3>Increasing female representation...</h3></center>
 <p>It been identified as one possible strategy for creating justice-focused organizations that are more responsive to public needs <a href="https://cops.usdoj.gov/ric/Publications/cops-p311-pub.pdf"><i> (President’s Task Force on 21st Century Policing, 2015; Silvestri, 2015)
 </a>.</i></p>
