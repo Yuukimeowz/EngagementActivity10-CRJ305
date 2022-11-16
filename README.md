@@ -27,13 +27,15 @@
     <center><h3>Did you know?</h3></center>
     <ul>
             <li>According to the national institute of justice, across the Country, about 1/8 of Law Enforcement officers are women in each department. Meaning there is usually a large smaller amount of women than men in each department. Scholars recognize that the percentage of women in police organizations is not representative of the communities they serve <a href="https://journals.sagepub.com/doi/epub/10.1177/2153368715575376"><i>(Morabito & Shelley, 2015)
-            </a>.</i>
-            </li>
+            </a>.</i></li>
+        <br>
             <li>Female officers less likely to agree that aggressive tactics are sometimes necessary. 22% of women and 35% of men said they had physically struggled with suspect. 11% of women and 30% of men report that they have ever fired weapon on duty <a href="https://www.pewresearch.org/fact-tank/2017/01/17/female-police-officers-on-the-job-experiences-diverge-from-those-of-male-officers/"><i>(Pew Research Center)
             </a>.</i></li>
+        <br>
             <li> Decades of gender discrimination have stymied the robust presence of women in leadership positions in American policing. Moreover, historic patterns of exclusion have led to problems of attrition whereby women in frontline positions either opt out of the promotion process or leave policing altogether before they can advance to the upper echelons—a trend referred to as a leaking pipeline (Bailyn, 2003).
             </h3>
             </li>
+    <br>
    <center><img class="mainphoto" src="https://www.statista.com/graphic/1/195324/gender-distribution-of-full-time-law-enforcement-employees-in-the-us.jpg" width="800" height="500"></center>  
 <br>
 <center><h3>Increasing female representation...</h3></center>
@@ -42,7 +44,9 @@
 <p>Agencies with a greater number of female officers are more effective in identifying and clearing sexual violence cases compared with agencies with fewer female officers <a href="https://journals.sagepub.com/doi/epub/10.1177/0020852315619222"><i>(Meier & Nicholson-Crotty, 2006; Walfield, 2016)</a>.</i> Representation is hypothesized to strengthen citizens’ participation in the decision-making process and to increase their cooperation in interactions with specific bureaucratic agents (Riccucci, Van Ryzin, & Lavena, 2014).
 </p> 
   <p> Women in Law enforcement are responsible for enforcing laws, maintaining public order, and managing public safety. Women Handle duties of investigation, apprehension, and detention of individuals suspected of criminal offenses. Having more women in law departments will benefit the field with different points of view and approaches that come from different life experiences. A multiplicity of perspectives can spark creativity and innovation, and help departments spot and seize new opportunities. </P>
+  <br>
       <center><img class="img" src="https://oilcitynews.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/09/CPD-Policewoman-Day-3.jpg" width="700" height="400"></center>
+      <br>
   <h3>"women police are encouraging and inspiring."</h3>
      </body>
       </html>
